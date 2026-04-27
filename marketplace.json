@@ -5,7 +5,8 @@
      {
        "name": "my-custom-plugin",
        "description": "Plugin local to this marketplace repo",
-       "source": "./plugins/my-custom-plugin"
+       "source": "./plugins/my-custom-plugin",
+       "agents": ["new-agents/"]
      },
      {
        "name": "external-plugin",
