@@ -1,6 +1,0 @@
-{
-   "name": "my-custom-plugin",
-   "description": "A test plugin for CCA in a marketplace",
-   "skills": "skills/",
-   "agents": "agents/"
- }
