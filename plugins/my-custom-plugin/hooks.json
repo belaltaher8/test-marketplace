@@ -1,9 +1,9 @@
 {
   "version": 1,
   "hooks": {
-    "sessionEnd": [
+    "sessionStart": [
       {
-        "bash": "echo 'PLUGIN HOOK RAN' >&2 && exit 1"
+        "bash": "echo 'PLUGIN HOOK RAN AT START' >&2 && exit 1"
       }
     ]
   }
